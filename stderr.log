@@ -1,0 +1,484 @@
+I, [2013-08-17T13:43:40.919389 #30862]  INFO -- : Refreshing Gem list
+I, [2013-08-17T13:43:41.308621 #30862]  INFO -- : listening on addr=0.0.0.0:4001 fd=7
+I, [2013-08-17T13:43:41.308772 #30862]  INFO -- : worker=0 spawning...
+I, [2013-08-17T13:43:41.310210 #30862]  INFO -- : master process ready
+I, [2013-08-17T13:43:41.311099 #30869]  INFO -- : worker=0 spawned pid=30869
+I, [2013-08-17T13:43:41.314524 #30869]  INFO -- : worker=0 ready
+I, [2013-08-17T13:44:10.003389 #30862]  INFO -- : reaped #<Process::Status: pid 30869 exit 0> worker=0
+I, [2013-08-17T13:44:10.003587 #30862]  INFO -- : master complete
+I, [2013-08-17T13:45:31.514098 #30909]  INFO -- : Refreshing Gem list
+I, [2013-08-17T13:45:31.925039 #30909]  INFO -- : listening on addr=0.0.0.0:4001 fd=7
+I, [2013-08-17T13:45:31.925190 #30909]  INFO -- : worker=0 spawning...
+I, [2013-08-17T13:45:31.926795 #30909]  INFO -- : master process ready
+I, [2013-08-17T13:45:31.927715 #30916]  INFO -- : worker=0 spawned pid=30916
+I, [2013-08-17T13:45:31.932407 #30916]  INFO -- : worker=0 ready
+I, [2013-08-17T13:45:34.057073 #30909]  INFO -- : reaped #<Process::Status: pid 30916 exit 0> worker=0
+I, [2013-08-17T13:45:34.057268 #30909]  INFO -- : master complete
+I, [2013-08-17T13:47:51.397722 #30935]  INFO -- : Refreshing Gem list
+I, [2013-08-17T13:47:51.812381 #30935]  INFO -- : listening on addr=0.0.0.0:4001 fd=7
+I, [2013-08-17T13:47:51.812585 #30935]  INFO -- : worker=0 spawning...
+I, [2013-08-17T13:47:51.814485 #30935]  INFO -- : master process ready
+I, [2013-08-17T13:47:51.815154 #30942]  INFO -- : worker=0 spawned pid=30942
+I, [2013-08-17T13:47:51.818951 #30942]  INFO -- : worker=0 ready
+I, [2013-08-17T13:47:53.088037 #30935]  INFO -- : reaped #<Process::Status: pid 30942 exit 0> worker=0
+I, [2013-08-17T13:47:53.088207 #30935]  INFO -- : master complete
+I, [2013-08-17T13:51:39.226982 #30995]  INFO -- : Refreshing Gem list
+I, [2013-08-17T13:51:39.642594 #30995]  INFO -- : listening on addr=0.0.0.0:4001 fd=7
+I, [2013-08-17T13:51:39.642751 #30995]  INFO -- : worker=0 spawning...
+I, [2013-08-17T13:51:39.644335 #30995]  INFO -- : master process ready
+I, [2013-08-17T13:51:39.645228 #31002]  INFO -- : worker=0 spawned pid=31002
+I, [2013-08-17T13:51:39.649865 #31002]  INFO -- : worker=0 ready
+I, [2013-08-17T13:51:47.048307 #30995]  INFO -- : reaped #<Process::Status: pid 31002 exit 0> worker=0
+I, [2013-08-17T13:51:47.048514 #30995]  INFO -- : master complete
+I, [2013-08-17T14:37:19.945902 #31561]  INFO -- : Refreshing Gem list
+I, [2013-08-17T14:37:20.368913 #31561]  INFO -- : listening on addr=0.0.0.0:4001 fd=7
+I, [2013-08-17T14:37:20.369072 #31561]  INFO -- : worker=0 spawning...
+I, [2013-08-17T14:37:20.370733 #31561]  INFO -- : master process ready
+I, [2013-08-17T14:37:20.371535 #31568]  INFO -- : worker=0 spawned pid=31568
+I, [2013-08-17T14:37:20.376168 #31568]  INFO -- : worker=0 ready
+I, [2013-08-17T14:37:32.662118 #31561]  INFO -- : reaped #<Process::Status: pid 31568 exit 0> worker=0
+I, [2013-08-17T14:37:32.662314 #31561]  INFO -- : master complete
+I, [2013-08-17T14:37:45.152281 #31580]  INFO -- : Refreshing Gem list
+I, [2013-08-17T14:37:45.581135 #31580]  INFO -- : listening on addr=0.0.0.0:4001 fd=7
+I, [2013-08-17T14:37:45.581295 #31580]  INFO -- : worker=0 spawning...
+I, [2013-08-17T14:37:45.582852 #31580]  INFO -- : master process ready
+I, [2013-08-17T14:37:45.583822 #31587]  INFO -- : worker=0 spawned pid=31587
+I, [2013-08-17T14:37:45.588414 #31587]  INFO -- : worker=0 ready
+I, [2013-08-17T14:38:00.310121 #31580]  INFO -- : reaped #<Process::Status: pid 31587 exit 0> worker=0
+I, [2013-08-17T14:38:00.310338 #31580]  INFO -- : master complete
+I, [2013-08-17T14:39:39.992489 #31624]  INFO -- : Refreshing Gem list
+I, [2013-08-17T14:39:40.417390 #31624]  INFO -- : listening on addr=0.0.0.0:4001 fd=7
+I, [2013-08-17T14:39:40.417584 #31624]  INFO -- : worker=0 spawning...
+I, [2013-08-17T14:39:40.419566 #31624]  INFO -- : master process ready
+I, [2013-08-17T14:39:40.420459 #31631]  INFO -- : worker=0 spawned pid=31631
+I, [2013-08-17T14:39:40.425090 #31631]  INFO -- : worker=0 ready
+OpenURI::HTTPError - 504 Gateway Time-out:
+	/usr/lib/ruby/1.9.1/open-uri.rb:346:in `open_http'
+	/usr/lib/ruby/1.9.1/open-uri.rb:775:in `buffer_open'
+	/usr/lib/ruby/1.9.1/open-uri.rb:203:in `block in open_loop'
+	/usr/lib/ruby/1.9.1/open-uri.rb:201:in `catch'
+	/usr/lib/ruby/1.9.1/open-uri.rb:201:in `open_loop'
+	/usr/lib/ruby/1.9.1/open-uri.rb:146:in `open_uri'
+	/usr/lib/ruby/1.9.1/open-uri.rb:677:in `open'
+	/usr/lib/ruby/1.9.1/open-uri.rb:33:in `open'
+	/home/joshua/staging/controller.rb:107:in `start_bot'
+	/home/joshua/staging/controller.rb:171:in `block in <class:MyApp>'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1211:in `call'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1211:in `block in compile!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:785:in `[]'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:785:in `block (3 levels) in route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:801:in `route_eval'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:785:in `block (2 levels) in route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:822:in `block in process_route'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:820:in `catch'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:820:in `process_route'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:784:in `block in route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:783:in `each'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:783:in `route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:886:in `dispatch!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:719:in `block in call!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:871:in `block in invoke'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:871:in `catch'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:871:in `invoke'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:719:in `call!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:705:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/xss_header.rb:22:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/path_traversal.rb:16:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/json_csrf.rb:17:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/base.rb:47:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/xss_header.rb:22:in `call'
+	/var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/nulllogger.rb:9:in `call'
+	/var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1334:in `block in call'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1416:in `synchronize'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1334:in `call'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:552:in `process_client'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:632:in `worker_loop'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:500:in `spawn_missing_workers'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:142:in `start'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/bin/unicorn:126:in `<top (required)>'
+	/usr/local/bin/unicorn:23:in `load'
+	/usr/local/bin/unicorn:23:in `<main>'
+I, [2013-08-17T14:39:46.942161 #31624]  INFO -- : reaped #<Process::Status: pid 31631 exit 0> worker=0
+I, [2013-08-17T14:39:46.942390 #31624]  INFO -- : master complete
+I, [2013-08-17T15:19:28.345061 #32021]  INFO -- : Refreshing Gem list
+/home/joshua/staging/controller.rb:124:in `query': You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' thread='1'' at line 1 (Mysql::Error)
+	from /home/joshua/staging/controller.rb:124:in `reset_db'
+	from /home/joshua/staging/controller.rb:172:in `<class:MyApp>'
+	from /home/joshua/staging/controller.rb:167:in `<top (required)>'
+	from /usr/lib/ruby/1.9.1/rubygems/custom_require.rb:36:in `require'
+	from /usr/lib/ruby/1.9.1/rubygems/custom_require.rb:36:in `require'
+	from config.ru:5:in `block in <main>'
+	from /var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/builder.rb:55:in `instance_eval'
+	from /var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/builder.rb:55:in `initialize'
+	from config.ru:1:in `new'
+	from config.ru:1:in `<main>'
+	from /var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn.rb:48:in `eval'
+	from /var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn.rb:48:in `block in builder'
+	from /var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:722:in `call'
+	from /var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:722:in `build_app!'
+	from /var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:140:in `start'
+	from /var/lib/gems/1.9.1/gems/unicorn-4.6.3/bin/unicorn:126:in `<top (required)>'
+	from /usr/local/bin/unicorn:23:in `load'
+	from /usr/local/bin/unicorn:23:in `<main>'
+I, [2013-08-17T15:37:39.200190 #32147]  INFO -- : Refreshing Gem list
+/home/joshua/staging/controller.rb:124:in `query': You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' thread='1'' at line 1 (Mysql::Error)
+	from /home/joshua/staging/controller.rb:124:in `reset_db'
+	from /home/joshua/staging/controller.rb:172:in `<class:MyApp>'
+	from /home/joshua/staging/controller.rb:167:in `<top (required)>'
+	from /usr/lib/ruby/1.9.1/rubygems/custom_require.rb:36:in `require'
+	from /usr/lib/ruby/1.9.1/rubygems/custom_require.rb:36:in `require'
+	from config.ru:5:in `block in <main>'
+	from /var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/builder.rb:55:in `instance_eval'
+	from /var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/builder.rb:55:in `initialize'
+	from config.ru:1:in `new'
+	from config.ru:1:in `<main>'
+	from /var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn.rb:48:in `eval'
+	from /var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn.rb:48:in `block in builder'
+	from /var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:722:in `call'
+	from /var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:722:in `build_app!'
+	from /var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:140:in `start'
+	from /var/lib/gems/1.9.1/gems/unicorn-4.6.3/bin/unicorn:126:in `<top (required)>'
+	from /usr/local/bin/unicorn:23:in `load'
+	from /usr/local/bin/unicorn:23:in `<main>'
+I, [2013-08-17T15:39:29.253361 #32187]  INFO -- : Refreshing Gem list
+I, [2013-08-17T15:39:29.672087 #32187]  INFO -- : listening on addr=0.0.0.0:4001 fd=8
+I, [2013-08-17T15:39:29.672243 #32187]  INFO -- : worker=0 spawning...
+I, [2013-08-17T15:39:29.673653 #32187]  INFO -- : master process ready
+I, [2013-08-17T15:39:29.674600 #32195]  INFO -- : worker=0 spawned pid=32195
+I, [2013-08-17T15:39:29.679171 #32195]  INFO -- : worker=0 ready
+I, [2013-08-17T15:39:39.137826 #32187]  INFO -- : reaped #<Process::Status: pid 32195 exit 0> worker=0
+I, [2013-08-17T15:39:39.138040 #32187]  INFO -- : master complete
+I, [2013-08-17T15:39:49.882478 #32199]  INFO -- : Refreshing Gem list
+I, [2013-08-17T15:39:50.304035 #32199]  INFO -- : listening on addr=0.0.0.0:4001 fd=8
+I, [2013-08-17T15:39:50.304224 #32199]  INFO -- : worker=0 spawning...
+I, [2013-08-17T15:39:50.306131 #32199]  INFO -- : master process ready
+I, [2013-08-17T15:39:50.306871 #32209]  INFO -- : worker=0 spawned pid=32209
+I, [2013-08-17T15:39:50.311300 #32209]  INFO -- : worker=0 ready
+I, [2013-08-17T15:41:30.040114 #32199]  INFO -- : reaped #<Process::Status: pid 32209 exit 0> worker=0
+I, [2013-08-17T15:41:30.040331 #32199]  INFO -- : master complete
+I, [2013-08-17T15:41:40.424503 #32217]  INFO -- : Refreshing Gem list
+I, [2013-08-17T15:41:40.876569 #32217]  INFO -- : listening on addr=0.0.0.0:4001 fd=8
+I, [2013-08-17T15:41:40.876756 #32217]  INFO -- : worker=0 spawning...
+I, [2013-08-17T15:41:40.878580 #32217]  INFO -- : master process ready
+I, [2013-08-17T15:41:40.879467 #32229]  INFO -- : worker=0 spawned pid=32229
+I, [2013-08-17T15:41:40.883901 #32229]  INFO -- : worker=0 ready
+I, [2013-08-17T15:41:53.660714 #32217]  INFO -- : reaped #<Process::Status: pid 32229 exit 0> worker=0
+I, [2013-08-17T15:41:53.660930 #32217]  INFO -- : master complete
+I, [2013-08-17T15:42:05.591487 #32232]  INFO -- : Refreshing Gem list
+I, [2013-08-17T15:42:06.051134 #32232]  INFO -- : listening on addr=0.0.0.0:4001 fd=8
+I, [2013-08-17T15:42:06.051327 #32232]  INFO -- : worker=0 spawning...
+I, [2013-08-17T15:42:06.053197 #32232]  INFO -- : master process ready
+I, [2013-08-17T15:42:06.053974 #32240]  INFO -- : worker=0 spawned pid=32240
+I, [2013-08-17T15:42:06.058741 #32240]  INFO -- : worker=0 ready
+I, [2013-08-17T15:42:26.920160 #32232]  INFO -- : reaped #<Process::Status: pid 32240 exit 0> worker=0
+I, [2013-08-17T15:42:26.920352 #32232]  INFO -- : master complete
+I, [2013-08-17T16:19:08.615254 #490]  INFO -- : Refreshing Gem list
+I, [2013-08-17T16:19:09.041353 #490]  INFO -- : listening on addr=0.0.0.0:4001 fd=8
+I, [2013-08-17T16:19:09.041546 #490]  INFO -- : worker=0 spawning...
+I, [2013-08-17T16:19:09.043319 #490]  INFO -- : master process ready
+I, [2013-08-17T16:19:09.044236 #498]  INFO -- : worker=0 spawned pid=498
+I, [2013-08-17T16:19:09.048659 #498]  INFO -- : worker=0 ready
+I, [2013-08-17T16:19:14.955776 #490]  INFO -- : reaped #<Process::Status: pid 498 exit 0> worker=0
+I, [2013-08-17T16:19:14.955992 #490]  INFO -- : master complete
+I, [2013-08-17T17:03:52.905120 #840]  INFO -- : Refreshing Gem list
+I, [2013-08-17T17:03:53.369511 #840]  INFO -- : listening on addr=0.0.0.0:4001 fd=8
+I, [2013-08-17T17:03:53.369699 #840]  INFO -- : worker=0 spawning...
+I, [2013-08-17T17:03:53.371952 #840]  INFO -- : master process ready
+I, [2013-08-17T17:03:53.372798 #848]  INFO -- : worker=0 spawned pid=848
+I, [2013-08-17T17:03:53.377314 #848]  INFO -- : worker=0 ready
+NameError - uninitialized class variable @@botlist in Object:
+	/home/joshua/staging/controller.rb:128:in `start_bot'
+	/home/joshua/staging/controller.rb:194:in `block in <class:MyApp>'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1211:in `call'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1211:in `block in compile!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:785:in `[]'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:785:in `block (3 levels) in route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:801:in `route_eval'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:785:in `block (2 levels) in route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:822:in `block in process_route'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:820:in `catch'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:820:in `process_route'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:784:in `block in route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:783:in `each'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:783:in `route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:886:in `dispatch!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:719:in `block in call!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:871:in `block in invoke'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:871:in `catch'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:871:in `invoke'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:719:in `call!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:705:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/xss_header.rb:22:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/path_traversal.rb:16:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/json_csrf.rb:17:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/base.rb:47:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/xss_header.rb:22:in `call'
+	/var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/nulllogger.rb:9:in `call'
+	/var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1334:in `block in call'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1416:in `synchronize'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1334:in `call'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:552:in `process_client'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:632:in `worker_loop'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:500:in `spawn_missing_workers'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:142:in `start'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/bin/unicorn:126:in `<top (required)>'
+	/usr/local/bin/unicorn:23:in `load'
+	/usr/local/bin/unicorn:23:in `<main>'
+I, [2013-08-17T17:04:13.939855 #840]  INFO -- : reaped #<Process::Status: pid 848 exit 0> worker=0
+I, [2013-08-17T17:04:13.940077 #840]  INFO -- : master complete
+I, [2013-08-17T17:09:16.210855 #1055]  INFO -- : Refreshing Gem list
+I, [2013-08-17T17:09:16.632055 #1055]  INFO -- : listening on addr=0.0.0.0:4001 fd=8
+I, [2013-08-17T17:09:16.632237 #1055]  INFO -- : worker=0 spawning...
+I, [2013-08-17T17:09:16.634557 #1055]  INFO -- : master process ready
+I, [2013-08-17T17:09:16.635504 #1063]  INFO -- : worker=0 spawned pid=1063
+I, [2013-08-17T17:09:16.640035 #1063]  INFO -- : worker=0 ready
+NoMethodError - undefined method `[]=' for nil:NilClass:
+	/home/joshua/staging/controller.rb:130:in `start_bot'
+	/home/joshua/staging/controller.rb:196:in `block in <class:MyApp>'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1211:in `call'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1211:in `block in compile!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:785:in `[]'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:785:in `block (3 levels) in route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:801:in `route_eval'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:785:in `block (2 levels) in route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:822:in `block in process_route'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:820:in `catch'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:820:in `process_route'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:784:in `block in route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:783:in `each'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:783:in `route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:886:in `dispatch!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:719:in `block in call!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:871:in `block in invoke'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:871:in `catch'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:871:in `invoke'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:719:in `call!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:705:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/xss_header.rb:22:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/path_traversal.rb:16:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/json_csrf.rb:17:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/base.rb:47:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/xss_header.rb:22:in `call'
+	/var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/nulllogger.rb:9:in `call'
+	/var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1334:in `block in call'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1416:in `synchronize'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1334:in `call'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:552:in `process_client'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:632:in `worker_loop'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:500:in `spawn_missing_workers'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:142:in `start'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/bin/unicorn:126:in `<top (required)>'
+	/usr/local/bin/unicorn:23:in `load'
+	/usr/local/bin/unicorn:23:in `<main>'
+I, [2013-08-17T17:09:25.806046 #1055]  INFO -- : reaped #<Process::Status: pid 1063 exit 0> worker=0
+I, [2013-08-17T17:09:25.806218 #1055]  INFO -- : master complete
+I, [2013-08-17T17:13:17.951677 #1248]  INFO -- : Refreshing Gem list
+I, [2013-08-17T17:13:18.379816 #1248]  INFO -- : listening on addr=0.0.0.0:4001 fd=8
+I, [2013-08-17T17:13:18.379980 #1248]  INFO -- : worker=0 spawning...
+I, [2013-08-17T17:13:18.381808 #1248]  INFO -- : master process ready
+I, [2013-08-17T17:13:18.382709 #1256]  INFO -- : worker=0 spawned pid=1256
+I, [2013-08-17T17:13:18.387356 #1256]  INFO -- : worker=0 ready
+NoMethodError - undefined method `[]=' for nil:NilClass:
+	/home/joshua/staging/controller.rb:130:in `start_bot'
+	/home/joshua/staging/controller.rb:196:in `block in <class:MyApp>'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1211:in `call'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1211:in `block in compile!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:785:in `[]'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:785:in `block (3 levels) in route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:801:in `route_eval'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:785:in `block (2 levels) in route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:822:in `block in process_route'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:820:in `catch'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:820:in `process_route'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:784:in `block in route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:783:in `each'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:783:in `route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:886:in `dispatch!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:719:in `block in call!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:871:in `block in invoke'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:871:in `catch'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:871:in `invoke'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:719:in `call!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:705:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/xss_header.rb:22:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/path_traversal.rb:16:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/json_csrf.rb:17:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/base.rb:47:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/xss_header.rb:22:in `call'
+	/var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/nulllogger.rb:9:in `call'
+	/var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1334:in `block in call'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1416:in `synchronize'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1334:in `call'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:552:in `process_client'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:632:in `worker_loop'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:500:in `spawn_missing_workers'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:142:in `start'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/bin/unicorn:126:in `<top (required)>'
+	/usr/local/bin/unicorn:23:in `load'
+	/usr/local/bin/unicorn:23:in `<main>'
+I, [2013-08-17T17:13:41.467362 #1248]  INFO -- : reaped #<Process::Status: pid 1256 exit 0> worker=0
+I, [2013-08-17T17:13:41.467578 #1248]  INFO -- : master complete
+I, [2013-08-17T17:15:05.721234 #1305]  INFO -- : Refreshing Gem list
+I, [2013-08-17T17:15:06.147398 #1305]  INFO -- : listening on addr=0.0.0.0:4001 fd=8
+I, [2013-08-17T17:15:06.147601 #1305]  INFO -- : worker=0 spawning...
+I, [2013-08-17T17:15:06.149885 #1305]  INFO -- : master process ready
+I, [2013-08-17T17:15:06.150715 #1313]  INFO -- : worker=0 spawned pid=1313
+I, [2013-08-17T17:15:06.155340 #1313]  INFO -- : worker=0 ready
+NoMethodError - undefined method `push' for nil:NilClass:
+	/home/joshua/staging/controller.rb:130:in `start_bot'
+	/home/joshua/staging/controller.rb:196:in `block in <class:MyApp>'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1211:in `call'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1211:in `block in compile!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:785:in `[]'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:785:in `block (3 levels) in route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:801:in `route_eval'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:785:in `block (2 levels) in route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:822:in `block in process_route'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:820:in `catch'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:820:in `process_route'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:784:in `block in route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:783:in `each'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:783:in `route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:886:in `dispatch!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:719:in `block in call!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:871:in `block in invoke'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:871:in `catch'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:871:in `invoke'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:719:in `call!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:705:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/xss_header.rb:22:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/path_traversal.rb:16:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/json_csrf.rb:17:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/base.rb:47:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/xss_header.rb:22:in `call'
+	/var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/nulllogger.rb:9:in `call'
+	/var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1334:in `block in call'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1416:in `synchronize'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1334:in `call'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:552:in `process_client'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:632:in `worker_loop'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:500:in `spawn_missing_workers'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:142:in `start'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/bin/unicorn:126:in `<top (required)>'
+	/usr/local/bin/unicorn:23:in `load'
+	/usr/local/bin/unicorn:23:in `<main>'
+NoMethodError - undefined method `push' for nil:NilClass:
+	/home/joshua/staging/controller.rb:130:in `start_bot'
+	/home/joshua/staging/controller.rb:196:in `block in <class:MyApp>'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1211:in `call'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1211:in `block in compile!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:785:in `[]'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:785:in `block (3 levels) in route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:801:in `route_eval'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:785:in `block (2 levels) in route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:822:in `block in process_route'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:820:in `catch'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:820:in `process_route'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:784:in `block in route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:783:in `each'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:783:in `route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:886:in `dispatch!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:719:in `block in call!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:871:in `block in invoke'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:871:in `catch'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:871:in `invoke'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:719:in `call!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:705:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/xss_header.rb:22:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/path_traversal.rb:16:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/json_csrf.rb:17:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/base.rb:47:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/xss_header.rb:22:in `call'
+	/var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/nulllogger.rb:9:in `call'
+	/var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1334:in `block in call'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1416:in `synchronize'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1334:in `call'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:552:in `process_client'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:632:in `worker_loop'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:500:in `spawn_missing_workers'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:142:in `start'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/bin/unicorn:126:in `<top (required)>'
+	/usr/local/bin/unicorn:23:in `load'
+	/usr/local/bin/unicorn:23:in `<main>'
+I, [2013-08-17T17:15:37.250550 #1305]  INFO -- : reaped #<Process::Status: pid 1313 exit 0> worker=0
+I, [2013-08-17T17:15:37.250782 #1305]  INFO -- : master complete
+I, [2013-08-17T17:16:46.408683 #1398]  INFO -- : Refreshing Gem list
+I, [2013-08-17T17:16:46.828516 #1398]  INFO -- : listening on addr=0.0.0.0:4001 fd=8
+I, [2013-08-17T17:16:46.828739 #1398]  INFO -- : worker=0 spawning...
+I, [2013-08-17T17:16:46.830985 #1398]  INFO -- : master process ready
+I, [2013-08-17T17:16:46.831830 #1406]  INFO -- : worker=0 spawned pid=1406
+I, [2013-08-17T17:16:46.836458 #1406]  INFO -- : worker=0 ready
+NoMethodError - undefined method `[]=' for nil:NilClass:
+	/home/joshua/staging/controller.rb:128:in `start_bot'
+	/home/joshua/staging/controller.rb:194:in `block in <class:MyApp>'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1211:in `call'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1211:in `block in compile!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:785:in `[]'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:785:in `block (3 levels) in route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:801:in `route_eval'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:785:in `block (2 levels) in route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:822:in `block in process_route'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:820:in `catch'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:820:in `process_route'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:784:in `block in route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:783:in `each'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:783:in `route!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:886:in `dispatch!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:719:in `block in call!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:871:in `block in invoke'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:871:in `catch'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:871:in `invoke'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:719:in `call!'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:705:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/xss_header.rb:22:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/path_traversal.rb:16:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/json_csrf.rb:17:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/base.rb:47:in `call'
+	/usr/lib/ruby/vendor_ruby/rack/protection/xss_header.rb:22:in `call'
+	/var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/nulllogger.rb:9:in `call'
+	/var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1334:in `block in call'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1416:in `synchronize'
+	/usr/lib/ruby/vendor_ruby/sinatra/base.rb:1334:in `call'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:552:in `process_client'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:632:in `worker_loop'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:500:in `spawn_missing_workers'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:142:in `start'
+	/var/lib/gems/1.9.1/gems/unicorn-4.6.3/bin/unicorn:126:in `<top (required)>'
+	/usr/local/bin/unicorn:23:in `load'
+	/usr/local/bin/unicorn:23:in `<main>'
+I, [2013-08-17T17:17:04.600170 #1398]  INFO -- : reaped #<Process::Status: pid 1406 exit 0> worker=0
+I, [2013-08-17T17:17:04.600438 #1398]  INFO -- : master complete
+I, [2013-08-17T17:18:26.378606 #1456]  INFO -- : Refreshing Gem list
+/home/joshua/staging/controller.rb:136:in `reset_db': undefined method `botlist=' for MyApp:Class (NoMethodError)
+	from /home/joshua/staging/controller.rb:186:in `<class:MyApp>'
+	from /home/joshua/staging/controller.rb:181:in `<top (required)>'
+	from /usr/lib/ruby/1.9.1/rubygems/custom_require.rb:36:in `require'
+	from /usr/lib/ruby/1.9.1/rubygems/custom_require.rb:36:in `require'
+	from config.ru:5:in `block in <main>'
+	from /var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/builder.rb:55:in `instance_eval'
+	from /var/lib/gems/1.9.1/gems/rack-1.5.2/lib/rack/builder.rb:55:in `initialize'
+	from config.ru:1:in `new'
+	from config.ru:1:in `<main>'
+	from /var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn.rb:48:in `eval'
+	from /var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn.rb:48:in `block in builder'
+	from /var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:722:in `call'
+	from /var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:722:in `build_app!'
+	from /var/lib/gems/1.9.1/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:140:in `start'
+	from /var/lib/gems/1.9.1/gems/unicorn-4.6.3/bin/unicorn:126:in `<top (required)>'
+	from /usr/local/bin/unicorn:23:in `load'
+	from /usr/local/bin/unicorn:23:in `<main>'
+I, [2013-08-17T17:20:37.569163 #1479]  INFO -- : Refreshing Gem list
+I, [2013-08-17T17:20:37.991841 #1479]  INFO -- : listening on addr=0.0.0.0:4001 fd=8
+I, [2013-08-17T17:20:37.992010 #1479]  INFO -- : worker=0 spawning...
+I, [2013-08-17T17:20:37.993993 #1479]  INFO -- : master process ready
+I, [2013-08-17T17:20:37.994959 #1487]  INFO -- : worker=0 spawned pid=1487
+I, [2013-08-17T17:20:37.999613 #1487]  INFO -- : worker=0 ready
+I, [2013-08-17T17:21:28.599731 #1479]  INFO -- : reaped #<Process::Status: pid 1487 exit 0> worker=0
+I, [2013-08-17T17:21:28.599941 #1479]  INFO -- : master complete
